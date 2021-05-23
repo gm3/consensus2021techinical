@@ -54,7 +54,7 @@ We can send requests or invites into the production studio now that we are frien
 *Sorry about this onboarding friction, and it should get better in the future.*
 
 ## Avatars
-
+If you dont have a custom avatar for the shoot that is fine! There are default avatars you can choose in the "Avatars" menu, and we will have a few to pick from in the room.
 
 ![](https://i.imgur.com/TLn81st.png)
 
