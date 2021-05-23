@@ -5,6 +5,9 @@
 ![](https://i.imgur.com/DUrap4V.jpg)
 
 
+![](https://i.imgur.com/kHOraU1.jpg)
+
+
 ## First of all thank you so much for being a part of this legendary event! The art is up, the doors are about to be open, and we are about to go live!
 
 There have been a few questions about getting into VRChat, and how to set up the mics /  audio, so I would like to go over all of that here. Please read over these instructions and reach out to me if you have any questions!
