@@ -5,9 +5,13 @@
 ![](https://i.imgur.com/DUrap4V.jpg)
 
 
-First of all thank you so much for being a part of this legendary event! The art is up, the doors are about to be open, and we are about to go live!
+## First of all thank you so much for being a part of this legendary event! The art is up, the doors are about to be open, and we are about to go live!
 
-There have been a few questions about getting into VRChat, and how to set up the mics /  audio, so I would like to go over all of that here. Please read over these instructions and reach out to me if you have any questions! Our Production Discord Channel https://discord.gg/DawvUYAj #consensus-artists-private.  Thank you!
+There have been a few questions about getting into VRChat, and how to set up the mics /  audio, so I would like to go over all of that here. Please read over these instructions and reach out to me if you have any questions!
+
+* Our Production Discord Channel https://discord.gg/DawvUYAj
+* #consensus-artists-private
+
 
 ## Sound /  Hardware Check
 We will meet up 30 mins or so before the event to do a sound check in the Discord Channel #consensus-artist-voice, to give time for guests to adjust their hardware.
@@ -108,6 +112,16 @@ If you have any questions please reach out to me boomboxhead#5796 or ask in the 
 
 If we test our gear before the show, we will be in great shape for the live event! Please add me on discord in case of any issues, last minute changes or help with anything.
 
+## Where will the livestreams be broadcasted?
+
+ Day 1: http://twitch.tv/boomboxheads + studio recording
+ Day 2: Streamed into Consensus 2021 Virtual Event + studio recording
+ Day 3: Streamed into Consensus 2021 Virtual Event + studio recording
+ Day 4: http://twitch.tv/boomboxheads + studio recording
+
+All of the events will be recorded to compile a final video of all of the artits for a "CoinBase Consensus 2021 Long The Metaverse Video".
+
+If for whatever reason, you can not make it please let us know, and we will schedule a reshoot studio recording.
 
 ## Lights, Camera, Action!
 
